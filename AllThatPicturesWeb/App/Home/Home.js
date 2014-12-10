@@ -21,7 +21,7 @@
             // If setSelectedDataAsync method is supported by the host application
             // setDatabtn is hooked up to call the method else setDatabtn is removed
             if (Office.context.document.setSelectedDataAsync) {
-                $('#insertImageBtn').click(function () {
+                $('#insertImageLink').click(function () {
                     var imgHtml = "<img " + "src='" + picUrl.val() + "' img/>";
                     setHTMLImage(imgHtml);
                 });

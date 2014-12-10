@@ -5,7 +5,7 @@
   <Version>1.0.0.0</Version>
   <ProviderName>hjkim</ProviderName>
   <DefaultLocale>en-US</DefaultLocale>
-  <DisplayName DefaultValue="AllThatPictures" />
+  <DisplayName DefaultValue="All That Pictures" />
   <Description DefaultValue="AllThatPictures"/>
   <Capabilities>
     <Capability Name="Document" />
